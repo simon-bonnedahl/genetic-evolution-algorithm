@@ -13,4 +13,6 @@
 
 ## Tools
 
-- [Solidity](https://docs.soliditylang.org/en/v0.8.13/)
+- [Python](https://docs.soliditylang.org/en/v0.8.13/)
+- [Pygame](https://docs.soliditylang.org/en/v0.8.13/) for graphics
+- [Pandas](https://docs.soliditylang.org/en/v0.8.13/) for data analysis
