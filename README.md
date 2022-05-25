@@ -13,7 +13,7 @@
 
 ## Tools
 
-- [Python](https://docs.soliditylang.org/en/v0.8.13/)
-- [Pygame](https://docs.soliditylang.org/en/v0.8.13/) for graphics
-- [Pandas](https://docs.soliditylang.org/en/v0.8.13/) for data analysis
-- [Pickle](https://docs.soliditylang.org/en/v0.8.13/)
+- [Python](https://www.python.org/)
+- [Pygame](https://www.pygame.org/docs/) for graphics
+- [Pandas](https://pandas.pydata.org/) for data analysis
+- [Pickle](https://docs.python.org/3/library/pickle.html) for serialization of neural network
