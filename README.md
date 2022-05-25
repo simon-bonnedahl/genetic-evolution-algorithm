@@ -1,6 +1,6 @@
 # Machine Learning - Genetic Algorithm
 
-![AI run](https://github.com/simon-bonnedahl/Web3-Land/blob/main/Image1.png)
+![AI run](https://github.com/simon-bonnedahl/ML-Genetic-Algorithm/blob/main/runAI.gif)
 
 ## Tools
 
