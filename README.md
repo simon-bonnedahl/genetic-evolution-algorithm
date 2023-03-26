@@ -8,7 +8,7 @@
 
 
 
-## Running developed AI
+## Running developed network
 ![AI run](https://github.com/simon-bonnedahl/ML-Genetic-Algorithm/blob/main/runAI.gif)
 
 ## Tools
